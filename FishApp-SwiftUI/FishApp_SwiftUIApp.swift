@@ -11,7 +11,7 @@ import SwiftUI
 struct FishApp_SwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            FishDetails()
         }
     }
 }
